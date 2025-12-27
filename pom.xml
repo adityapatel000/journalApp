@@ -30,6 +30,10 @@
 		<java.version>17</java.version>
 <!--        <sonar.token>squ_1362de13f43e0e168e337cbd8265284b9d7cd847</sonar.token>-->
 
+        <properties>
+            <sonar.organization>adityapatel000</sonar.organization>
+        </properties>
+
     </properties>
 	<dependencies>
 		<dependency>
